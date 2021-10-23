@@ -40,9 +40,9 @@ bld/
 #wwwroot/
 
 # Othe files and folders
-[Ss]creenshots/
-001.txt
-Elyas_Mohammadzadehkosari_N01500896_Lab2.pdf
+/[Ss]creenshots/
+/001.txt
+/Elyas_Mohammadzadehkosari_N01500896_Lab2.pdf
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/

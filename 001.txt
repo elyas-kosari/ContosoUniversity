@@ -1,0 +1,9 @@
+new Student{FirstMidName="Elyas",LastName="Mohammadzadehkosari",EnrollmentDate=DateTime.Parse("2021-09-23")},
+
+new Course{CourseID=35513,Title="Advanced Programming",Credits=3},
+new Course{CourseID=35514,Title="Advanced Programming Lab",Credits=1},
+new Course{CourseID=35556,Title="Web Development",Credits=3},
+
+new Enrollment{StudentID=1,CourseID=35513,Grade=Grade.A},
+new Enrollment{StudentID=1,CourseID=35514,Grade=Grade.A},
+new Enrollment{StudentID=1,CourseID=35556,Grade=Grade.A},
